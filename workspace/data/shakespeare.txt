@@ -1,0 +1,1000 @@
+hamlet@0		HAMLET
+hamlet@8	
+hamlet@9	
+hamlet@10		DRAMATIS PERSONAE
+hamlet@29	
+hamlet@30	
+hamlet@31	CLAUDIUS	king of Denmark. (KING CLAUDIUS:)
+hamlet@74	
+hamlet@75	HAMLET	son to the late, and nephew to the present king.
+hamlet@131	
+hamlet@132	POLONIUS	lord chamberlain. (LORD POLONIUS:)
+hamlet@176	
+hamlet@177	HORATIO	friend to Hamlet.
+hamlet@203	
+hamlet@204	LAERTES	son to Polonius.
+hamlet@229	
+hamlet@230	LUCIANUS	nephew to the king.
+hamlet@259	
+hamlet@260	
+hamlet@261	VOLTIMAND	|
+hamlet@273		|
+hamlet@276	CORNELIUS	|
+hamlet@288		|
+hamlet@291	ROSENCRANTZ	|  courtiers.
+hamlet@317		|
+hamlet@320	GUILDENSTERN	|
+hamlet@335		|
+hamlet@338	OSRIC	|
+hamlet@346	
+hamlet@347	
+hamlet@348		A Gentleman, (Gentlemen:)
+hamlet@375	
+hamlet@376		A Priest. (First Priest:)
+hamlet@403	
+hamlet@404	
+hamlet@405	MARCELLUS	|
+hamlet@417		|  officers.
+hamlet@431	BERNARDO	|
+hamlet@442	
+hamlet@443	
+hamlet@444	FRANCISCO	a soldier.
+hamlet@465	
+hamlet@466	REYNALDO	servant to Polonius.
+hamlet@496		Players.
+hamlet@506		(First Player:)
+hamlet@523		(Player King:)
+hamlet@539		(Player Queen:)
+hamlet@556	
+hamlet@557		Two Clowns, grave-diggers.
+hamlet@585		(First Clown:)
+hamlet@601		(Second Clown:)
+hamlet@618	
+hamlet@619	FORTINBRAS	prince of Norway. (PRINCE FORTINBRAS:)
+hamlet@669	
+hamlet@670		A Captain.
+hamlet@682	
+hamlet@683		English Ambassadors. (First Ambassador:)
+hamlet@725	
+hamlet@726	GERTRUDE	queen of Denmark, and mother to Hamlet.
+hamlet@775		(QUEEN GERTRUDE:)
+hamlet@794	
+hamlet@795	OPHELIA	daughter to Polonius.
+hamlet@825	
+hamlet@826		Lords, Ladies, Officers, Soldiers, Sailors, Messengers,
+hamlet@883		and other Attendants. (Lord:)
+hamlet@914		(First Sailor:)
+hamlet@931		(Messenger:)
+hamlet@945	
+hamlet@946		Ghost of Hamlet's Father. (Ghost:)
+hamlet@982	
+hamlet@983	
+hamlet@984	
+hamlet@985	SCENE	Denmark.
+hamlet@1000	
+hamlet@1001	
+hamlet@1002	
+hamlet@1003	
+hamlet@1004		HAMLET
+hamlet@1012	
+hamlet@1013	
+hamlet@1014	ACT I
+hamlet@1020	
+hamlet@1021	
+hamlet@1022	
+hamlet@1023	SCENE I	Elsinore. A platform before the castle.
+hamlet@1071	
+hamlet@1072	
+hamlet@1073		[FRANCISCO at his post. Enter to him BERNARDO]
+hamlet@1121	
+hamlet@1122	BERNARDO	Who's there?
+hamlet@1144	
+hamlet@1145	FRANCISCO	Nay, answer me: stand, and unfold yourself.
+hamlet@1199	
+hamlet@1200	BERNARDO	Long live the king!
+hamlet@1229	
+hamlet@1230	FRANCISCO	Bernardo?
+hamlet@1250	
+hamlet@1251	BERNARDO	He.
+hamlet@1264	
+hamlet@1265	FRANCISCO	You come most carefully upon your hour.
+hamlet@1315	
+hamlet@1316	BERNARDO	'Tis now struck twelve; get thee to bed, Francisco.
+hamlet@1377	
+hamlet@1378	FRANCISCO	For this relief much thanks: 'tis bitter cold,
+hamlet@1435		And I am sick at heart.
+hamlet@1460	
+hamlet@1461	BERNARDO	Have you had quiet guard?
+hamlet@1496	
+hamlet@1497	FRANCISCO	Not a mouse stirring.
+hamlet@1529	
+hamlet@1530	BERNARDO	Well, good night.
+hamlet@1557		If you do meet Horatio and Marcellus,
+hamlet@1596		The rivals of my watch, bid them make haste.
+hamlet@1642	
+hamlet@1643	FRANCISCO	I think I hear them. Stand, ho! Who's there?
+hamlet@1698	
+hamlet@1699		[Enter HORATIO and MARCELLUS]
+hamlet@1730	
+hamlet@1731	HORATIO	Friends to this ground.
+hamlet@1763	
+hamlet@1764	MARCELLUS	And liegemen to the Dane.
+hamlet@1800	
+hamlet@1801	FRANCISCO	Give you good night.
+hamlet@1832	
+hamlet@1833	MARCELLUS	O, farewell, honest soldier:
+hamlet@1872		Who hath relieved you?
+hamlet@1896	
+hamlet@1897	FRANCISCO	Bernardo has my place.
+hamlet@1930		Give you good night.
+hamlet@1952	
+hamlet@1953		[Exit]
+hamlet@1961	
+hamlet@1962	MARCELLUS	Holla! Bernardo!
+hamlet@1989	
+hamlet@1990	BERNARDO	Say,
+hamlet@2004		What, is Horatio there?
+hamlet@2029	
+hamlet@2030	HORATIO	A piece of him.
+hamlet@2054	
+hamlet@2055	BERNARDO	Welcome, Horatio: welcome, good Marcellus.
+hamlet@2107	
+hamlet@2108	MARCELLUS	What, has this thing appear'd again to-night?
+hamlet@2164	
+hamlet@2165	BERNARDO	I have seen nothing.
+hamlet@2195	
+hamlet@2196	MARCELLUS	Horatio says 'tis but our fantasy,
+hamlet@2241		And will not let belief take hold of him
+hamlet@2283		Touching this dreaded sight, twice seen of us:
+hamlet@2331		Therefore I have entreated him along
+hamlet@2369		With us to watch the minutes of this night;
+hamlet@2414		That if again this apparition come,
+hamlet@2451		He may approve our eyes and speak to it.
+hamlet@2493	
+hamlet@2494	HORATIO	Tush, tush, 'twill not appear.
+hamlet@2533	
+hamlet@2534	BERNARDO	Sit down awhile;
+hamlet@2560		And let us once again assail your ears,
+hamlet@2601		That are so fortified against our story
+hamlet@2642		What we have two nights seen.
+hamlet@2673	
+hamlet@2674	HORATIO	Well, sit we down,
+hamlet@2701		And let us hear Bernardo speak of this.
+hamlet@2742	
+hamlet@2743	BERNARDO	Last night of all,
+hamlet@2771		When yond same star that's westward from the pole
+hamlet@2822		Had made his course to illume that part of heaven
+hamlet@2873		Where now it burns, Marcellus and myself,
+hamlet@2916		The bell then beating one,--
+hamlet@2946	
+hamlet@2947		[Enter Ghost]
+hamlet@2962	
+hamlet@2963	MARCELLUS	Peace, break thee off; look, where it comes again!
+hamlet@3024	
+hamlet@3025	BERNARDO	In the same figure, like the king that's dead.
+hamlet@3081	
+hamlet@3082	MARCELLUS	Thou art a scholar; speak to it, Horatio.
+hamlet@3134	
+hamlet@3135	BERNARDO	Looks it not like the king?  mark it, Horatio.
+hamlet@3191	
+hamlet@3192	HORATIO	Most like: it harrows me with fear and wonder.
+hamlet@3247	
+hamlet@3248	BERNARDO	It would be spoke to.
+hamlet@3279	
+hamlet@3280	MARCELLUS	Question it, Horatio.
+hamlet@3312	
+hamlet@3313	HORATIO	What art thou that usurp'st this time of night,
+hamlet@3369		Together with that fair and warlike form
+hamlet@3411		In which the majesty of buried Denmark
+hamlet@3451		Did sometimes march? by heaven I charge thee, speak!
+hamlet@3505	
+hamlet@3506	MARCELLUS	It is offended.
+hamlet@3532	
+hamlet@3533	BERNARDO	                  See, it stalks away!
+hamlet@3581	
+hamlet@3582	HORATIO	Stay! speak, speak! I charge thee, speak!
+hamlet@3632	
+hamlet@3633		[Exit Ghost]
+hamlet@3647	
+hamlet@3648	MARCELLUS	'Tis gone, and will not answer.
+hamlet@3690	
+hamlet@3691	BERNARDO	How now, Horatio! you tremble and look pale:
+hamlet@3745		Is not this something more than fantasy?
+hamlet@3787		What think you on't?
+hamlet@3809	
+hamlet@3810	HORATIO	Before my God, I might not this believe
+hamlet@3858		Without the sensible and true avouch
+hamlet@3896		Of mine own eyes.
+hamlet@3915	
+hamlet@3916	MARCELLUS	                  Is it not like the king?
+hamlet@3969	
+hamlet@3970	HORATIO	As thou art to thyself:
+hamlet@4002		Such was the very armour he had on
+hamlet@4038		When he the ambitious Norway combated;
+hamlet@4078		So frown'd he once, when, in an angry parle,
+hamlet@4124		He smote the sledded Polacks on the ice.
+hamlet@4166		'Tis strange.
+hamlet@4181	
+hamlet@4182	MARCELLUS	Thus twice before, and jump at this dead hour,
+hamlet@4239		With martial stalk hath he gone by our watch.
+hamlet@4286	
+hamlet@4287	HORATIO	In what particular thought to work I know not;
+hamlet@4342		But in the gross and scope of my opinion,
+hamlet@4385		This bodes some strange eruption to our state.
+hamlet@4433	
+hamlet@4434	MARCELLUS	Good now, sit down, and tell me, he that knows,
+hamlet@4492		Why this same strict and most observant watch
+hamlet@4539		So nightly toils the subject of the land,
+hamlet@4582		And why such daily cast of brazen cannon,
+hamlet@4625		And foreign mart for implements of war;
+hamlet@4666		Why such impress of shipwrights, whose sore task
+hamlet@4716		Does not divide the Sunday from the week;
+hamlet@4759		What might be toward, that this sweaty haste
+hamlet@4805		Doth make the night joint-labourer with the day:
+hamlet@4855		Who is't that can inform me?
+hamlet@4885	
+hamlet@4886	HORATIO	That can I;
+hamlet@4906		At least, the whisper goes so. Our last king,
+hamlet@4953		Whose image even but now appear'd to us,
+hamlet@4995		Was, as you know, by Fortinbras of Norway,
+hamlet@5039		Thereto prick'd on by a most emulate pride,
+hamlet@5084		Dared to the combat; in which our valiant Hamlet--
+hamlet@5136		For so this side of our known world esteem'd him--
+hamlet@5188		Did slay this Fortinbras; who by a seal'd compact,
+hamlet@5240		Well ratified by law and heraldry,
+hamlet@5276		Did forfeit, with his life, all those his lands
+hamlet@5325		Which he stood seized of, to the conqueror:
+hamlet@5370		Against the which, a moiety competent
+hamlet@5409		Was gaged by our king; which had return'd
+hamlet@5452		To the inheritance of Fortinbras,
+hamlet@5487		Had he been vanquisher; as, by the same covenant,
+hamlet@5538		And carriage of the article design'd,
+hamlet@5577		His fell to Hamlet. Now, sir, young Fortinbras,
+hamlet@5626		Of unimproved mettle hot and full,
+hamlet@5662		Hath in the skirts of Norway here and there
+hamlet@5707		Shark'd up a list of lawless resolutes,
+hamlet@5748		For food and diet, to some enterprise
+hamlet@5787		That hath a stomach in't; which is no other--
+hamlet@5834		As it doth well appear unto our state--
+hamlet@5875		But to recover of us, by strong hand
+hamlet@5913		And terms compulsatory, those foresaid lands
+hamlet@5959		So by his father lost: and this, I take it,
+hamlet@6004		Is the main motive of our preparations,
+hamlet@6045		The source of this our watch and the chief head
+hamlet@6094		Of this post-haste and romage in the land.
+hamlet@6138	
+hamlet@6139	BERNARDO	I think it be no other but e'en so:
+hamlet@6184		Well may it sort that this portentous figure
+hamlet@6230		Comes armed through our watch; so like the king
+hamlet@6279		That was and is the question of these wars.
+hamlet@6324	
+hamlet@6325	HORATIO	A mote it is to trouble the mind's eye.
+hamlet@6373		In the most high and palmy state of Rome,
+hamlet@6416		A little ere the mightiest Julius fell,
+hamlet@6457		The graves stood tenantless and the sheeted dead
+hamlet@6507		Did squeak and gibber in the Roman streets:
+hamlet@6552		As stars with trains of fire and dews of blood,
+hamlet@6601		Disasters in the sun; and the moist star
+hamlet@6643		Upon whose influence Neptune's empire stands
+hamlet@6689		Was sick almost to doomsday with eclipse:
+hamlet@6732		And even the like precurse of fierce events,
+hamlet@6778		As harbingers preceding still the fates
+hamlet@6819		And prologue to the omen coming on,
+hamlet@6856		Have heaven and earth together demonstrated
+hamlet@6901		Unto our climatures and countrymen.--
+hamlet@6940		But soft, behold! lo, where it comes again!
+hamlet@6985	
+hamlet@6986		[Re-enter Ghost]
+hamlet@7004	
+hamlet@7005		I'll cross it, though it blast me. Stay, illusion!
+hamlet@7057		If thou hast any sound, or use of voice,
+hamlet@7099		Speak to me:
+hamlet@7113		If there be any good thing to be done,
+hamlet@7153		That may to thee do ease and grace to me,
+hamlet@7196		Speak to me:
+hamlet@7210	
+hamlet@7211		[Cock crows]
+hamlet@7225	
+hamlet@7226		If thou art privy to thy country's fate,
+hamlet@7268		Which, happily, foreknowing may avoid, O, speak!
+hamlet@7318		Or if thou hast uphoarded in thy life
+hamlet@7357		Extorted treasure in the womb of earth,
+hamlet@7398		For which, they say, you spirits oft walk in death,
+hamlet@7451		Speak of it: stay, and speak! Stop it, Marcellus.
+hamlet@7502	
+hamlet@7503	MARCELLUS	Shall I strike at it with my partisan?
+hamlet@7552	
+hamlet@7553	HORATIO	Do, if it will not stand.
+hamlet@7587	
+hamlet@7588	BERNARDO	'Tis here!
+hamlet@7608	
+hamlet@7609	HORATIO	'Tis here!
+hamlet@7628	
+hamlet@7629	MARCELLUS	'Tis gone!
+hamlet@7650	
+hamlet@7651		[Exit Ghost]
+hamlet@7665	
+hamlet@7666		We do it wrong, being so majestical,
+hamlet@7704		To offer it the show of violence;
+hamlet@7739		For it is, as the air, invulnerable,
+hamlet@7777		And our vain blows malicious mockery.
+hamlet@7816	
+hamlet@7817	BERNARDO	It was about to speak, when the cock crew.
+hamlet@7869	
+hamlet@7870	HORATIO	And then it started like a guilty thing
+hamlet@7918		Upon a fearful summons. I have heard,
+hamlet@7957		The cock, that is the trumpet to the morn,
+hamlet@8001		Doth with his lofty and shrill-sounding throat
+hamlet@8049		Awake the god of day; and, at his warning,
+hamlet@8093		Whether in sea or fire, in earth or air,
+hamlet@8135		The extravagant and erring spirit hies
+hamlet@8175		To his confine: and of the truth herein
+hamlet@8216		This present object made probation.
+hamlet@8253	
+hamlet@8254	MARCELLUS	It faded on the crowing of the cock.
+hamlet@8301		Some say that ever 'gainst that season comes
+hamlet@8347		Wherein our Saviour's birth is celebrated,
+hamlet@8391		The bird of dawning singeth all night long:
+hamlet@8436		And then, they say, no spirit dares stir abroad;
+hamlet@8486		The nights are wholesome; then no planets strike,
+hamlet@8537		No fairy takes, nor witch hath power to charm,
+hamlet@8585		So hallow'd and so gracious is the time.
+hamlet@8627	
+hamlet@8628	HORATIO	So have I heard and do in part believe it.
+hamlet@8679		But, look, the morn, in russet mantle clad,
+hamlet@8724		Walks o'er the dew of yon high eastward hill:
+hamlet@8771		Break we our watch up; and by my advice,
+hamlet@8813		Let us impart what we have seen to-night
+hamlet@8855		Unto young Hamlet; for, upon my life,
+hamlet@8894		This spirit, dumb to us, will speak to him.
+hamlet@8939		Do you consent we shall acquaint him with it,
+hamlet@8986		As needful in our loves, fitting our duty?
+hamlet@9030	
+hamlet@9031	MARCELLUS	Let's do't, I pray; and I this morning know
+hamlet@9085		Where we shall find him most conveniently.
+hamlet@9129	
+hamlet@9130		[Exeunt]
+hamlet@9140	
+hamlet@9141	
+hamlet@9142	
+hamlet@9143	
+hamlet@9144		HAMLET
+hamlet@9152	
+hamlet@9153	
+hamlet@9154	ACT I
+hamlet@9160	
+hamlet@9161	
+hamlet@9162	
+hamlet@9163	SCENE II	A room of state in the castle.
+hamlet@9203	
+hamlet@9204	
+hamlet@9205		[Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET,
+hamlet@9252		POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords,
+hamlet@9301		and Attendants]
+hamlet@9318	
+hamlet@9319	KING CLAUDIUS	Though yet of Hamlet our dear brother's death
+hamlet@9379		The memory be green, and that it us befitted
+hamlet@9425		To bear our hearts in grief and our whole kingdom
+hamlet@9476		To be contracted in one brow of woe,
+hamlet@9514		Yet so far hath discretion fought with nature
+hamlet@9561		That we with wisest sorrow think on him,
+hamlet@9603		Together with remembrance of ourselves.
+hamlet@9644		Therefore our sometime sister, now our queen,
+hamlet@9691		The imperial jointress to this warlike state,
+hamlet@9738		Have we, as 'twere with a defeated joy,--
+hamlet@9781		With an auspicious and a dropping eye,
+hamlet@9821		With mirth in funeral and with dirge in marriage,
+hamlet@9872		In equal scale weighing delight and dole,--
+hamlet@9917		Taken to wife: nor have we herein barr'd
+hamlet@9959		Your better wisdoms, which have freely gone
+hamlet@10004		With this affair along. For all, our thanks.
+hamlet@10050		Now follows, that you know, young Fortinbras,
+hamlet@10097		Holding a weak supposal of our worth,
+hamlet@10136		Or thinking by our late dear brother's death
+hamlet@10182		Our state to be disjoint and out of frame,
+hamlet@10226		Colleagued with the dream of his advantage,
+hamlet@10271		He hath not fail'd to pester us with message,
+hamlet@10318		Importing the surrender of those lands
+hamlet@10358		Lost by his father, with all bonds of law,
+hamlet@10402		To our most valiant brother. So much for him.
+hamlet@10449		Now for ourself and for this time of meeting:
+hamlet@10496		Thus much the business is: we have here writ
+hamlet@10542		To Norway, uncle of young Fortinbras,--
+hamlet@10583		Who, impotent and bed-rid, scarcely hears
+hamlet@10626		Of this his nephew's purpose,--to suppress
+hamlet@10670		His further gait herein; in that the levies,
+hamlet@10716		The lists and full proportions, are all made
+hamlet@10762		Out of his subject: and we here dispatch
+hamlet@10804		You, good Cornelius, and you, Voltimand,
+hamlet@10846		For bearers of this greeting to old Norway;
+hamlet@10891		Giving to you no further personal power
+hamlet@10932		To business with the king, more than the scope
+hamlet@10980		Of these delated articles allow.
+hamlet@11014		Farewell, and let your haste commend your duty.
+hamlet@11063	
+hamlet@11064	
+hamlet@11065	CORNELIUS	|
+hamlet@11077		|  In that and all things will we show our duty.
+hamlet@11127	VOLTIMAND	|
+hamlet@11139	
+hamlet@11140	
+hamlet@11141	KING CLAUDIUS	We doubt it nothing: heartily farewell.
+hamlet@11195	
+hamlet@11196		[Exeunt VOLTIMAND and CORNELIUS]
+hamlet@11230	
+hamlet@11231		And now, Laertes, what's the news with you?
+hamlet@11276		You told us of some suit; what is't, Laertes?
+hamlet@11323		You cannot speak of reason to the Dane,
+hamlet@11364		And loose your voice: what wouldst thou beg, Laertes,
+hamlet@11419		That shall not be my offer, not thy asking?
+hamlet@11464		The head is not more native to the heart,
+hamlet@11507		The hand more instrumental to the mouth,
+hamlet@11549		Than is the throne of Denmark to thy father.
+hamlet@11595		What wouldst thou have, Laertes?
+hamlet@11629	
+hamlet@11630	LAERTES	My dread lord,
+hamlet@11653		Your leave and favour to return to France;
+hamlet@11697		From whence though willingly I came to Denmark,
+hamlet@11746		To show my duty in your coronation,
+hamlet@11783		Yet now, I must confess, that duty done,
+hamlet@11825		My thoughts and wishes bend again toward France
+hamlet@11874		And bow them to your gracious leave and pardon.
+hamlet@11923	
+hamlet@11924	KING CLAUDIUS	Have you your father's leave? What says Polonius?
+hamlet@11988	
+hamlet@11989	LORD POLONIUS	He hath, my lord, wrung from me my slow leave
+hamlet@12049		By laboursome petition, and at last
+hamlet@12086		Upon his will I seal'd my hard consent:
+hamlet@12127		I do beseech you, give him leave to go.
+hamlet@12168	
+hamlet@12169	KING CLAUDIUS	Take thy fair hour, Laertes; time be thine,
+hamlet@12227		And thy best graces spend it at thy will!
+hamlet@12270		But now, my cousin Hamlet, and my son,--
+hamlet@12312	
+hamlet@12313	HAMLET	[Aside]  A little more than kin, and less than kind.
+hamlet@12373	
+hamlet@12374	KING CLAUDIUS	How is it that the clouds still hang on you?
+hamlet@12433	
+hamlet@12434	HAMLET	Not so, my lord; I am too much i' the sun.
+hamlet@12484	
+hamlet@12485	QUEEN GERTRUDE	Good Hamlet, cast thy nighted colour off,
+hamlet@12542		And let thine eye look like a friend on Denmark.
+hamlet@12592		Do not for ever with thy vailed lids
+hamlet@12630		Seek for thy noble father in the dust:
+hamlet@12670		Thou know'st 'tis common; all that lives must die,
+hamlet@12722		Passing through nature to eternity.
+hamlet@12759	
+hamlet@12760	HAMLET	Ay, madam, it is common.
+hamlet@12792	
+hamlet@12793	QUEEN GERTRUDE	If it be,
+hamlet@12818		Why seems it so particular with thee?
+hamlet@12857	
+hamlet@12858	HAMLET	Seems, madam! nay it is; I know not 'seems.'
+hamlet@12910		'Tis not alone my inky cloak, good mother,
+hamlet@12954		Nor customary suits of solemn black,
+hamlet@12992		Nor windy suspiration of forced breath,
+hamlet@13033		No, nor the fruitful river in the eye,
+hamlet@13073		Nor the dejected 'havior of the visage,
+hamlet@13114		Together with all forms, moods, shapes of grief,
+hamlet@13164		That can denote me truly: these indeed seem,
+hamlet@13210		For they are actions that a man might play:
+hamlet@13255		But I have that within which passeth show;
+hamlet@13299		These but the trappings and the suits of woe.
+hamlet@13346	
+hamlet@13347	KING CLAUDIUS	'Tis sweet and commendable in your nature, Hamlet,
+hamlet@13412		To give these mourning duties to your father:
+hamlet@13459		But, you must know, your father lost a father;
+hamlet@13507		That father lost, lost his, and the survivor bound
+hamlet@13559		In filial obligation for some term
+hamlet@13595		To do obsequious sorrow: but to persever
+hamlet@13637		In obstinate condolement is a course
+hamlet@13675		Of impious stubbornness; 'tis unmanly grief;
+hamlet@13721		It shows a will most incorrect to heaven,
+hamlet@13764		A heart unfortified, a mind impatient,
+hamlet@13804		An understanding simple and unschool'd:
+hamlet@13845		For what we know must be and is as common
+hamlet@13888		As any the most vulgar thing to sense,
+hamlet@13928		Why should we in our peevish opposition
+hamlet@13969		Take it to heart? Fie! 'tis a fault to heaven,
+hamlet@14017		A fault against the dead, a fault to nature,
+hamlet@14063		To reason most absurd: whose common theme
+hamlet@14106		Is death of fathers, and who still hath cried,
+hamlet@14154		From the first corse till he that died to-day,
+hamlet@14202		'This must be so.' We pray you, throw to earth
+hamlet@14250		This unprevailing woe, and think of us
+hamlet@14290		As of a father: for let the world take note,
+hamlet@14336		You are the most immediate to our throne;
+hamlet@14379		And with no less nobility of love
+hamlet@14414		Than that which dearest father bears his son,
+hamlet@14461		Do I impart toward you. For your intent
+hamlet@14502		In going back to school in Wittenberg,
+hamlet@14542		It is most retrograde to our desire:
+hamlet@14580		And we beseech you, bend you to remain
+hamlet@14620		Here, in the cheer and comfort of our eye,
+hamlet@14664		Our chiefest courtier, cousin, and our son.
+hamlet@14709	
+hamlet@14710	QUEEN GERTRUDE	Let not thy mother lose her prayers, Hamlet:
+hamlet@14770		I pray thee, stay with us; go not to Wittenberg.
+hamlet@14820	
+hamlet@14821	HAMLET	I shall in all my best obey you, madam.
+hamlet@14868	
+hamlet@14869	KING CLAUDIUS	Why, 'tis a loving and a fair reply:
+hamlet@14920		Be as ourself in Denmark. Madam, come;
+hamlet@14960		This gentle and unforced accord of Hamlet
+hamlet@15003		Sits smiling to my heart: in grace whereof,
+hamlet@15048		No jocund health that Denmark drinks to-day,
+hamlet@15094		But the great cannon to the clouds shall tell,
+hamlet@15142		And the king's rouse the heavens all bruit again,
+hamlet@15193		Re-speaking earthly thunder. Come away.
+hamlet@15234	
+hamlet@15235		[Exeunt all but HAMLET]
+hamlet@15260	
+hamlet@15261	HAMLET	O, that this too too solid flesh would melt
+hamlet@15312		Thaw and resolve itself into a dew!
+hamlet@15349		Or that the Everlasting had not fix'd
+hamlet@15388		His canon 'gainst self-slaughter! O God! God!
+hamlet@15435		How weary, stale, flat and unprofitable,
+hamlet@15477		Seem to me all the uses of this world!
+hamlet@15517		Fie on't! ah fie! 'tis an unweeded garden,
+hamlet@15561		That grows to seed; things rank and gross in nature
+hamlet@15614		Possess it merely. That it should come to this!
+hamlet@15663		But two months dead: nay, not so much, not two:
+hamlet@15712		So excellent a king; that was, to this,
+hamlet@15753		Hyperion to a satyr; so loving to my mother
+hamlet@15798		That he might not beteem the winds of heaven
+hamlet@15844		Visit her face too roughly. Heaven and earth!
+hamlet@15891		Must I remember? why, she would hang on him,
+hamlet@15937		As if increase of appetite had grown
+hamlet@15975		By what it fed on: and yet, within a month--
+hamlet@16021		Let me not think on't--Frailty, thy name is woman!--
+hamlet@16075		A little month, or ere those shoes were old
+hamlet@16120		With which she follow'd my poor father's body,
+hamlet@16168		Like Niobe, all tears:--why she, even she--
+hamlet@16213		O, God! a beast, that wants discourse of reason,
+hamlet@16263		Would have mourn'd longer--married with my uncle,
+hamlet@16314		My father's brother, but no more like my father
+hamlet@16363		Than I to Hercules: within a month:
+hamlet@16400		Ere yet the salt of most unrighteous tears
+hamlet@16444		Had left the flushing in her galled eyes,
+hamlet@16487		She married. O, most wicked speed, to post
+hamlet@16531		With such dexterity to incestuous sheets!
+hamlet@16574		It is not nor it cannot come to good:
+hamlet@16613		But break, my heart; for I must hold my tongue.
+hamlet@16662	
+hamlet@16663		[Enter HORATIO, MARCELLUS, and BERNARDO]
+hamlet@16705	
+hamlet@16706	HORATIO	Hail to your lordship!
+hamlet@16737	
+hamlet@16738	HAMLET	I am glad to see you well:
+hamlet@16772		Horatio,--or I do forget myself.
+hamlet@16806	
+hamlet@16807	HORATIO	The same, my lord, and your poor servant ever.
+hamlet@16862	
+hamlet@16863	HAMLET	Sir, my good friend; I'll change that name with you:
+hamlet@16923		And what make you from Wittenberg, Horatio? Marcellus?
+hamlet@16979	
+hamlet@16980	MARCELLUS	My good lord--
+hamlet@17005	
+hamlet@17006	HAMLET	I am very glad to see you. Good even, sir.
+hamlet@17056		But what, in faith, make you from Wittenberg?
+hamlet@17103	
+hamlet@17104	HORATIO	A truant disposition, good my lord.
+hamlet@17148	
+hamlet@17149	HAMLET	I would not hear your enemy say so,
+hamlet@17192		Nor shall you do mine ear that violence,
+hamlet@17234		To make it truster of your own report
+hamlet@17273		Against yourself: I know you are no truant.
+hamlet@17318		But what is your affair in Elsinore?
+hamlet@17356		We'll teach you to drink deep ere you depart.
+hamlet@17403	
+hamlet@17404	HORATIO	My lord, I came to see your father's funeral.
+hamlet@17458	
+hamlet@17459	HAMLET	I pray thee, do not mock me, fellow-student;
+hamlet@17511		I think it was to see my mother's wedding.
+hamlet@17555	
+hamlet@17556	HORATIO	Indeed, my lord, it follow'd hard upon.
+hamlet@17604	
+hamlet@17605	HAMLET	Thrift, thrift, Horatio! the funeral baked meats
+hamlet@17661		Did coldly furnish forth the marriage tables.
+hamlet@17708		Would I had met my dearest foe in heaven
+hamlet@17750		Or ever I had seen that day, Horatio!
+hamlet@17789		My father!--methinks I see my father.
+hamlet@17828	
+hamlet@17829	HORATIO	Where, my lord?
+hamlet@17853	
+hamlet@17854	HAMLET	                  In my mind's eye, Horatio.
+hamlet@17906	
+hamlet@17907	HORATIO	I saw him once; he was a goodly king.
+hamlet@17953	
+hamlet@17954	HAMLET	He was a man, take him for all in all,
+hamlet@18000		I shall not look upon his like again.
+hamlet@18039	
+hamlet@18040	HORATIO	My lord, I think I saw him yesternight.
+hamlet@18088	
+hamlet@18089	HAMLET	Saw? who?
+hamlet@18106	
+hamlet@18107	HORATIO	My lord, the king your father.
+hamlet@18146	
+hamlet@18147	HAMLET	The king my father!
+hamlet@18174	
+hamlet@18175	HORATIO	Season your admiration for awhile
+hamlet@18217		With an attent ear, till I may deliver,
+hamlet@18258		Upon the witness of these gentlemen,
+hamlet@18296		This marvel to you.
+hamlet@18317	
+hamlet@18318	HAMLET	For God's love, let me hear.
+hamlet@18354	
+hamlet@18355	HORATIO	Two nights together had these gentlemen,
+hamlet@18404		Marcellus and Bernardo, on their watch,
+hamlet@18445		In the dead vast and middle of the night,
+hamlet@18488		Been thus encounter'd. A figure like your father,
+hamlet@18539		Armed at point exactly, cap-a-pe,
+hamlet@18574		Appears before them, and with solemn march
+hamlet@18618		Goes slow and stately by them: thrice he walk'd
+hamlet@18667		By their oppress'd and fear-surprised eyes,
+hamlet@18712		Within his truncheon's length; whilst they, distilled
+hamlet@18767		Almost to jelly with the act of fear,
+hamlet@18806		Stand dumb and speak not to him. This to me
+hamlet@18851		In dreadful secrecy impart they did;
+hamlet@18889		And I with them the third night kept the watch;
+hamlet@18938		Where, as they had deliver'd, both in time,
+hamlet@18983		Form of the thing, each word made true and good,
+hamlet@19033		The apparition comes: I knew your father;
+hamlet@19076		These hands are not more like.
+hamlet@19108	
+hamlet@19109	HAMLET	But where was this?
+hamlet@19136	
+hamlet@19137	MARCELLUS	My lord, upon the platform where we watch'd.
+hamlet@19192	
+hamlet@19193	HAMLET	Did you not speak to it?
+hamlet@19225	
+hamlet@19226	HORATIO	My lord, I did;
+hamlet@19250		But answer made it none: yet once methought
+hamlet@19295		It lifted up its head and did address
+hamlet@19334		Itself to motion, like as it would speak;
+hamlet@19377		But even then the morning cock crew loud,
+hamlet@19420		And at the sound it shrunk in haste away,
+hamlet@19463		And vanish'd from our sight.
+hamlet@19493	
+hamlet@19494	HAMLET	'Tis very strange.
+hamlet@19520	
+hamlet@19521	HORATIO	As I do live, my honour'd lord, 'tis true;
+hamlet@19572		And we did think it writ down in our duty
+hamlet@19615		To let you know of it.
+hamlet@19639	
+hamlet@19640	HAMLET	Indeed, indeed, sirs, but this troubles me.
+hamlet@19691		Hold you the watch to-night?
+hamlet@19721	
+hamlet@19722	
+hamlet@19723	MARCELLUS	|
+hamlet@19735		|	We do, my lord.
+hamlet@19754	BERNARDO	|
+hamlet@19765	
+hamlet@19766	
+hamlet@19767	HAMLET	Arm'd, say you?
+hamlet@19790	
+hamlet@19791	
+hamlet@19792	MARCELLUS	|
+hamlet@19804		|  Arm'd, my lord.
+hamlet@19824	BERNARDO	|
+hamlet@19835	
+hamlet@19836	
+hamlet@19837	HAMLET	From top to toe?
+hamlet@19861	
+hamlet@19862	
+hamlet@19863	MARCELLUS	|
+hamlet@19875		|             My lord, from head to foot.
+hamlet@19918	BERNARDO	|
+hamlet@19929	
+hamlet@19930	
+hamlet@19931	HAMLET	Then saw you not his face?
+hamlet@19965	
+hamlet@19966	HORATIO	O, yes, my lord; he wore his beaver up.
+hamlet@20014	
+hamlet@20015	HAMLET	What, look'd he frowningly?
+hamlet@20050	
+hamlet@20051	HORATIO	A countenance more in sorrow than in anger.
+hamlet@20103	
+hamlet@20104	HAMLET	Pale or red?
+hamlet@20124	
+hamlet@20125	HORATIO	Nay, very pale.
+hamlet@20149	
+hamlet@20150	HAMLET	                  And fix'd his eyes upon you?
+hamlet@20204	
+hamlet@20205	HORATIO	Most constantly.
+hamlet@20230	
+hamlet@20231	HAMLET	                  I would I had been there.
+hamlet@20282	
+hamlet@20283	HORATIO	It would have much amazed you.
+hamlet@20322	
+hamlet@20323	HAMLET	Very like, very like. Stay'd it long?
+hamlet@20368	
+hamlet@20369	HORATIO	While one with moderate haste might tell a hundred.
+hamlet@20429	
+hamlet@20430	
+hamlet@20431	MARCELLUS	|
+hamlet@20443		| Longer, longer.
+hamlet@20462	BERNARDO	|
+hamlet@20473	
+hamlet@20474	
+hamlet@20475	HORATIO	Not when I saw't.
+hamlet@20501	
+hamlet@20502	HAMLET	                  His beard was grizzled--no?
+hamlet@20555	
+hamlet@20556	HORATIO	It was, as I have seen it in his life,
+hamlet@20603		A sable silver'd.
+hamlet@20622	
+hamlet@20623	HAMLET	                  I will watch to-night;
+hamlet@20671		Perchance 'twill walk again.
+hamlet@20701	
+hamlet@20702	HORATIO	I warrant it will.
+hamlet@20729	
+hamlet@20730	HAMLET	If it assume my noble father's person,
+hamlet@20776		I'll speak to it, though hell itself should gape
+hamlet@20826		And bid me hold my peace. I pray you all,
+hamlet@20869		If you have hitherto conceal'd this sight,
+hamlet@20913		Let it be tenable in your silence still;
+hamlet@20955		And whatsoever else shall hap to-night,
+hamlet@20996		Give it an understanding, but no tongue:
+hamlet@21038		I will requite your loves. So, fare you well:
+hamlet@21085		Upon the platform, 'twixt eleven and twelve,
+hamlet@21131		I'll visit you.
+hamlet@21148	
+hamlet@21149	All	                  Our duty to your honour.
+hamlet@21196	
+hamlet@21197	HAMLET	Your loves, as mine to you: farewell.
+hamlet@21242	
+hamlet@21243		[Exeunt all but HAMLET]
+hamlet@21268	
+hamlet@21269		My father's spirit in arms! all is not well;
+hamlet@21315		I doubt some foul play: would the night were come!
+hamlet@21367		Till then sit still, my soul: foul deeds will rise,
+hamlet@21420		Though all the earth o'erwhelm them, to men's eyes.
+hamlet@21473	
+hamlet@21474		[Exit]
+hamlet@21482	
+hamlet@21483	
+hamlet@21484	
+hamlet@21485	
+hamlet@21486		HAMLET
+hamlet@21494	
+hamlet@21495	
+hamlet@21496	ACT I
+hamlet@21502	
+hamlet@21503	
+hamlet@21504	
+hamlet@21505	SCENE III	A room in Polonius' house.
+hamlet@21542	
+hamlet@21543	
+hamlet@21544		[Enter LAERTES and OPHELIA]
+hamlet@21573	
+hamlet@21574	LAERTES	My necessaries are embark'd: farewell:
+hamlet@21621		And, sister, as the winds give benefit
+hamlet@21661		And convoy is assistant, do not sleep,
+hamlet@21701		But let me hear from you.
+hamlet@21728	
+hamlet@21729	OPHELIA	Do you doubt that?
+hamlet@21756	
+hamlet@21757	LAERTES	For Hamlet and the trifling of his favour,
+hamlet@21808		Hold it a fashion and a toy in blood,
+hamlet@21847		A violet in the youth of primy nature,
+hamlet@21887		Forward, not permanent, sweet, not lasting,
+hamlet@21932		The perfume and suppliance of a minute; No more.
+hamlet@21982	
+hamlet@21983	OPHELIA	       No more but so?
+hamlet@22014	
+hamlet@22015	LAERTES	Think it no more;
+hamlet@22041		For nature, crescent, does not grow alone
+hamlet@22084		In thews and bulk, but, as this temple waxes,
+hamlet@22131		The inward service of the mind and soul
+hamlet@22172		Grows wide withal. Perhaps he loves you now,
+hamlet@22218		And now no soil nor cautel doth besmirch
+hamlet@22260		The virtue of his will: but you must fear,
+hamlet@22304		His greatness weigh'd, his will is not his own;
+hamlet@22353		For he himself is subject to his birth:
+hamlet@22394		He may not, as unvalued persons do,
+hamlet@22431		Carve for himself; for on his choice depends
+hamlet@22477		The safety and health of this whole state;
+hamlet@22521		And therefore must his choice be circumscribed
+hamlet@22569		Unto the voice and yielding of that body
+hamlet@22611		Whereof he is the head. Then if he says he loves you,
+hamlet@22666		It fits your wisdom so far to believe it
+hamlet@22708		As he in his particular act and place
+hamlet@22747		May give his saying deed; which is no further
+hamlet@22794		Than the main voice of Denmark goes withal.
+hamlet@22839		Then weigh what loss your honour may sustain,
+hamlet@22886		If with too credent ear you list his songs,
+hamlet@22931		Or lose your heart, or your chaste treasure open
+hamlet@22981		To his unmaster'd importunity.
+hamlet@23013		Fear it, Ophelia, fear it, my dear sister,
+hamlet@23057		And keep you in the rear of your affection,
+hamlet@23102		Out of the shot and danger of desire.
+hamlet@23141		The chariest maid is prodigal enough,
+hamlet@23180		If she unmask her beauty to the moon:
+hamlet@23219		Virtue itself 'scapes not calumnious strokes:
+hamlet@23266		The canker galls the infants of the spring,
+hamlet@23311		Too oft before their buttons be disclosed,
+hamlet@23355		And in the morn and liquid dew of youth
+hamlet@23396		Contagious blastments are most imminent.
+hamlet@23438		Be wary then; best safety lies in fear:
+hamlet@23479		Youth to itself rebels, though none else near.
+hamlet@23527	
+hamlet@23528	OPHELIA	I shall the effect of this good lesson keep,
+hamlet@23581		As watchman to my heart. But, good my brother,
+hamlet@23629		Do not, as some ungracious pastors do,
+hamlet@23669		Show me the steep and thorny way to heaven;
+hamlet@23714		Whiles, like a puff'd and reckless libertine,
+hamlet@23761		Himself the primrose path of dalliance treads,
+hamlet@23809		And recks not his own rede.
+hamlet@23838	
+hamlet@23839	LAERTES	O, fear me not.
+hamlet@23863		I stay too long: but here my father comes.
+hamlet@23907	
+hamlet@23908		[Enter POLONIUS]
+hamlet@23926	
+hamlet@23927		A double blessing is a double grace,
+hamlet@23965		Occasion smiles upon a second leave.
+hamlet@24003	
+hamlet@24004	LORD POLONIUS	Yet here, Laertes! aboard, aboard, for shame!
+hamlet@24064		The wind sits in the shoulder of your sail,
+hamlet@24109		And you are stay'd for. There; my blessing with thee!
+hamlet@24164		And these few precepts in thy memory
+hamlet@24202		See thou character. Give thy thoughts no tongue,
+hamlet@24252		Nor any unproportioned thought his act.
+hamlet@24293		Be thou familiar, but by no means vulgar.
+hamlet@24336		Those friends thou hast, and their adoption tried,
+hamlet@24388		Grapple them to thy soul with hoops of steel;
+hamlet@24435		But do not dull thy palm with entertainment
+hamlet@24480		Of each new-hatch'd, unfledged comrade. Beware
+hamlet@24528		Of entrance to a quarrel, but being in,
+hamlet@24569		Bear't that the opposed may beware of thee.
+hamlet@24614		Give every man thy ear, but few thy voice;
+hamlet@24658		Take each man's censure, but reserve thy judgment.
+hamlet@24710		Costly thy habit as thy purse can buy,
+hamlet@24750		But not express'd in fancy; rich, not gaudy;
+hamlet@24796		For the apparel oft proclaims the man,
+hamlet@24836		And they in France of the best rank and station
+hamlet@24885		Are of a most select and generous chief in that.
+hamlet@24935		Neither a borrower nor a lender be;
+hamlet@24972		For loan oft loses both itself and friend,
+hamlet@25016		And borrowing dulls the edge of husbandry.
+hamlet@25060		This above all: to thine ownself be true,
+hamlet@25103		And it must follow, as the night the day,
+hamlet@25146		Thou canst not then be false to any man.
+hamlet@25188		Farewell: my blessing season this in thee!
+hamlet@25232	
+hamlet@25233	LAERTES	Most humbly do I take my leave, my lord.
+hamlet@25282	
+hamlet@25283	LORD POLONIUS	The time invites you; go; your servants tend.
+hamlet@25343	
+hamlet@25344	LAERTES	Farewell, Ophelia; and remember well
+hamlet@25389		What I have said to you.
+hamlet@25415	
+hamlet@25416	OPHELIA	'Tis in my memory lock'd,
+hamlet@25450		And you yourself shall keep the key of it.
+hamlet@25494	
+hamlet@25495	LAERTES	Farewell.
+hamlet@25513	
+hamlet@25514		[Exit]
+hamlet@25522	
+hamlet@25523	LORD POLONIUS	What is't, Ophelia, be hath said to you?
+hamlet@25578	
+hamlet@25579	OPHELIA	So please you, something touching the Lord Hamlet.
+hamlet@25638	
+hamlet@25639	LORD POLONIUS	Marry, well bethought:
+hamlet@25676		'Tis told me, he hath very oft of late
+hamlet@25716		Given private time to you; and you yourself
+hamlet@25761		Have of your audience been most free and bounteous:
+hamlet@25814		If it be so, as so 'tis put on me,
+hamlet@25850		And that in way of caution, I must tell you,
+hamlet@25896		You do not understand yourself so clearly
+hamlet@25939		As it behoves my daughter and your honour.
+hamlet@25983		What is between you? give me up the truth.
+hamlet@26027	
+hamlet@26028	OPHELIA	He hath, my lord, of late made many tenders
+hamlet@26080		Of his affection to me.
+hamlet@26105	
+hamlet@26106	LORD POLONIUS	Affection! pooh! you speak like a green girl,
+hamlet@26166		Unsifted in such perilous circumstance.
+hamlet@26207		Do you believe his tenders, as you call them?
+hamlet@26254	
+hamlet@26255	OPHELIA	I do not know, my lord, what I should think.
+hamlet@26308	
+hamlet@26309	LORD POLONIUS	Marry, I'll teach you: think yourself a baby;
+hamlet@26369		That you have ta'en these tenders for true pay,
+hamlet@26418		Which are not sterling. Tender yourself more dearly;
+hamlet@26472		Or--not to crack the wind of the poor phrase,
+hamlet@26519		Running it thus--you'll tender me a fool.
+hamlet@26562	
+hamlet@26563	OPHELIA	My lord, he hath importuned me with love
+hamlet@26612		In honourable fashion.
+hamlet@26636	
+hamlet@26637	LORD POLONIUS	Ay, fashion you may call it; go to, go to.
+hamlet@26694	
+hamlet@26695	OPHELIA	And hath given countenance to his speech, my lord,
+hamlet@26754		With almost all the holy vows of heaven.
+hamlet@26796	
+hamlet@26797	LORD POLONIUS	Ay, springes to catch woodcocks. I do know,
+hamlet@26855		When the blood burns, how prodigal the soul
+hamlet@26900		Lends the tongue vows: these blazes, daughter,
+hamlet@26948		Giving more light than heat, extinct in both,
+hamlet@26995		Even in their promise, as it is a-making,
+hamlet@27038		You must not take for fire. From this time
+hamlet@27082		Be somewhat scanter of your maiden presence;
+hamlet@27128		Set your entreatments at a higher rate
+hamlet@27168		Than a command to parley. For Lord Hamlet,
+hamlet@27212		Believe so much in him, that he is young
+hamlet@27254		And with a larger tether may he walk
+hamlet@27292		Than may be given you: in few, Ophelia,
+hamlet@27333		Do not believe his vows; for they are brokers,
+hamlet@27381		Not of that dye which their investments show,
+hamlet@27428		But mere implorators of unholy suits,
+hamlet@27467		Breathing like sanctified and pious bawds,
+hamlet@27511		The better to beguile. This is for all:
+hamlet@27552		I would not, in plain terms, from this time forth,
+hamlet@27604		Have you so slander any moment leisure,
+hamlet@27645		As to give words or talk with the Lord Hamlet.
+hamlet@27693		Look to't, I charge you: come your ways.
+hamlet@27735	
+hamlet@27736	OPHELIA	I shall obey, my lord.
+hamlet@27767	
+hamlet@27768		[Exeunt]
+hamlet@27778	
+hamlet@27779	
+hamlet@27780	
+hamlet@27781	
+hamlet@27782		HAMLET
+hamlet@27790	
+hamlet@27791	
+hamlet@27792	ACT I
+hamlet@27798	
+hamlet@27799	
+hamlet@27800	
+hamlet@27801	SCENE IV	The platform.
+hamlet@27824	
+hamlet@27825	
+hamlet@27826		[Enter HAMLET, HORATIO, and MARCELLUS]
+hamlet@27866	
+hamlet@27867	HAMLET	The air bites shrewdly; it is very cold.
+hamlet@27915	
+hamlet@27916	HORATIO	It is a nipping and an eager air.
+hamlet@27958	
+hamlet@27959	HAMLET	What hour now?
+hamlet@27981	
+hamlet@27982	HORATIO	                  I think it lacks of twelve.
+hamlet@28036	
+hamlet@28037	HAMLET	No, it is struck.
+hamlet@28062	
+hamlet@28063	HORATIO	Indeed? I heard it not: then it draws near the season
+hamlet@28125		Wherein the spirit held his wont to walk.
+hamlet@28168	
+hamlet@28169		[A flourish of trumpets, and ordnance shot off, within]
+hamlet@28226	
+hamlet@28227		What does this mean, my lord?
+hamlet@28258	
+hamlet@28259	HAMLET	The king doth wake to-night and takes his rouse,
+hamlet@28315		Keeps wassail, and the swaggering up-spring reels;
+hamlet@28367		And, as he drains his draughts of Rhenish down,
+hamlet@28416		The kettle-drum and trumpet thus bray out
+hamlet@28459		The triumph of his pledge.
+hamlet@28487	
+hamlet@28488	HORATIO	Is it a custom?
+hamlet@28512	
+hamlet@28513	HAMLET	Ay, marry, is't:
+hamlet@28537		But to my mind, though I am native here
+hamlet@28578		And to the manner born, it is a custom
+hamlet@28618		More honour'd in the breach than the observance.
+hamlet@28668		This heavy-headed revel east and west
+hamlet@28707		Makes us traduced and tax'd of other nations:
+hamlet@28754		They clepe us drunkards, and with swinish phrase
+hamlet@28804		Soil our addition; and indeed it takes
+hamlet@28844		From our achievements, though perform'd at height,
+hamlet@28896		The pith and marrow of our attribute.
+hamlet@28935		So, oft it chances in particular men,
+hamlet@28974		That for some vicious mole of nature in them,
+hamlet@29021		As, in their birth--wherein they are not guilty,
+hamlet@29071		Since nature cannot choose his origin--
+hamlet@29112		By the o'ergrowth of some complexion,
+hamlet@29151		Oft breaking down the pales and forts of reason,
+hamlet@29201		Or by some habit that too much o'er-leavens
+hamlet@29246		The form of plausive manners, that these men,
